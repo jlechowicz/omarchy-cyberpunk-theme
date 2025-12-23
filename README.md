@@ -1,6 +1,6 @@
 # Omarchy Hex Theme
 
-A neon-leaning, dark theme with hex-magenta and cyan accents, tuned for Omarchy.
+A neon-leaning, dark theme with hexagonal stylings with magenta and cyan accents, for Omarchy.
 
 ![Preview](preview.png)
 
@@ -13,7 +13,7 @@ omarchy-theme-install https://github.com/OldJobobo/omarchy-hex-theme
 ```
 
 ## Palette
-
+### Synthwave Alpha
 - Background: `#241b30`
 - Foreground: `#f2f2e3`
 - Accent magenta: `#ff00f6`
