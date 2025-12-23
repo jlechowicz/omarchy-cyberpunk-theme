@@ -28,3 +28,7 @@ omarchy-theme-install https://github.com/OldJobobo/omarchy-hex-theme
 | | | |
 | --- | --- | --- |
 | ![](backgrounds/3d-hexagons-in-perspective-neon-lighting_3840x2160_xtrafondos.com.jpg) | ![](backgrounds/hexagons-3d-with-neon-lighting_3840x2160_xtrafondos.com.jpg) | ![](backgrounds/pentagon-tunnel-with-neon-lights_3840x2160_xtrafondos.com.jpg) |
+
+## Attribution
+
+The Waybar theme is based on Hancore-Linux's V2.2 Waybar theme and has been heavily customized to fit this theme. https://github.com/HANCORE-linux/waybar-themes
