@@ -2,8 +2,6 @@
 
 My custom, Cyberpunk theme for Omarchy, forked from [Hex](https://github.com/OldJobobo/omarchy-hex-theme)
 
-![Preview](preview.png)
-
 ## Install
 
 Use the Omarchy theme installer:
@@ -27,7 +25,7 @@ omarchy-theme-install https://github.com/jlechowicz/omarchy-cyberpunk-theme
 
 | | | |
 | --- | --- | --- |
-| ![](backgrounds/3d-hexagons-in-perspective-neon-lighting_3840x2160_xtrafondos.com.jpg) | ![](backgrounds/hexagons-3d-with-neon-lighting_3840x2160_xtrafondos.com.jpg) | ![](backgrounds/pentagon-tunnel-with-neon-lights_3840x2160_xtrafondos.com.jpg) |
+| ![](backgrounds/36900412_jan2023_03.jpg) | ![](backgrounds/2151406598.jpg) | ![](backgrounds/aleksandr-popov-ez4pqCpEfuI-unsplash.jpg) |
 
 ## Attribution
 
