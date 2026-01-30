@@ -1,6 +1,6 @@
-# Omarchy Hex Theme
+# Omarchy Cyberpunk Theme
 
-A neon-leaning, dark theme with hexagonal stylings with magenta and cyan accents, for Omarchy.
+My custom, Cyberpunk theme for Omarchy, forked from [Hex](https://github.com/OldJobobo/omarchy-hex-theme)
 
 ![Preview](preview.png)
 
@@ -9,7 +9,7 @@ A neon-leaning, dark theme with hexagonal stylings with magenta and cyan accents
 Use the Omarchy theme installer:
 
 ```
-omarchy-theme-install https://github.com/OldJobobo/omarchy-hex-theme
+omarchy-theme-install https://github.com/jlechowicz/omarchy-cyberpunk-theme
 ```
 
 ## Palette
